@@ -25,7 +25,7 @@ Watch This on YouTube:
   </a>
   
   <h2>Preview...</h2>
-  <img src="https://github.com/dheerajrao20/Responsive-Navigation-Bar/blob/main/Images/thumbnail.png?raw=true" />
+  <img src="https://github.com/dheerajrao20/Responsive-Sidebar-menu/blob/main/Images/thumb.png?raw=true" />
   
 # 🎇How To Contribute 🎇
 
